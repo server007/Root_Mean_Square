@@ -1,0 +1,29 @@
+input {
+    width: 600px;
+    padding-left: 0.5cm;
+    letter-spacing: 4px;
+}
+
+h1 {
+    position: relative;
+    padding-left: 28%;
+    padding-top: 7%;
+}
+
+#div {
+    position: relative;
+    padding-left: 20%;
+    padding-top: 6%;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+#calculate {
+    letter-spacing: 2px;
+}
+
+.result {
+    padding-top: 1cm;
+}
